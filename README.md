@@ -1,4 +1,4 @@
-# lab-3-harsh61
+# Lab 3 - MusicHub
 
 Harsh Patel 100580778
 
